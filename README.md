@@ -1,6 +1,7 @@
-# Ex.   - REVERSE ENGINEER THE GIVEN PRODUCT
+# Ex No.4  - REVERSE ENGINEER THE GIVEN PRODUCT
+### Name: BINDHUJAA S
+### Register Number: 212224230038
 
-### DATE: 27.08.2026
 
 ## AIM: 
 ### To reverse engineering the product and prototyping the same in 3D printer.
@@ -31,14 +32,18 @@
   ###   ●	Open the file from the USB storage and select the Print option.
 
 ## Input:
-<img width="1101" height="650" alt="Screenshot 2026-03-16 220530" src="https://github.com/user-attachments/assets/0e8af47c-1531-4d7a-95d6-1b7c9acd1bd1" />
+
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/7408110d-7914-4008-933b-f6217ae8feaa" />
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/22b30f1a-6f50-4a82-8e4e-1657f634361c" />
+
+
 
 ### Output:
-<img width="1919" height="895" alt="image" src="https://github.com/user-attachments/assets/1a7f1635-da2b-4cd2-8d47-f2d92e0d6959" />
+
+<img width="1600" height="828" alt="WhatsApp Image 2026-06-08 at 7 22 49 PM (1)" src="https://github.com/user-attachments/assets/19ff2b6b-ca7a-4000-978e-fc2cecfb9700" />
 
 
-### Name:BINDHUJAA S
-### Register Number:212224230038
+<img width="1600" height="800" alt="WhatsApp Image 2026-06-08 at 7 22 49 PM" src="https://github.com/user-attachments/assets/882dcfda-f4c9-4a35-8a32-a2d41676d5eb" />
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
