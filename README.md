@@ -1,6 +1,4 @@
-# Ex No.4  - REVERSE ENGINEER THE GIVEN PRODUCT
-### Name: BINDHUJAA S
-### Register Number: 212224230038
+# Ex.   - REVERSE ENGINEER THE GIVEN PRODUCT
 
 
 ## AIM: 
@@ -32,18 +30,19 @@
   ###   ●	Open the file from the USB storage and select the Print option.
 
 ## Input:
+<img width="1280" height="1253" alt="image" src="https://github.com/user-attachments/assets/abb1d949-34d0-4a6a-90de-70d93c091e37" />
 
-<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/7408110d-7914-4008-933b-f6217ae8feaa" />
-<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/22b30f1a-6f50-4a82-8e4e-1657f634361c" />
+## Output:
+
+### FUSION 360:
+<img width="1919" height="1077" alt="image" src="https://github.com/user-attachments/assets/ba187331-1553-4cc0-aae5-1dd868d4388a" />
+
+### RENDERED:
+<img width="1920" height="692" alt="whiteboard_rendered" src="https://github.com/user-attachments/assets/8f069709-0252-41c0-9e8b-dd1dc9811a64" />
 
 
-
-### Output:
-
-<img width="1600" height="828" alt="WhatsApp Image 2026-06-08 at 7 22 49 PM (1)" src="https://github.com/user-attachments/assets/19ff2b6b-ca7a-4000-978e-fc2cecfb9700" />
-
-
-<img width="1600" height="800" alt="WhatsApp Image 2026-06-08 at 7 22 49 PM" src="https://github.com/user-attachments/assets/882dcfda-f4c9-4a35-8a32-a2d41676d5eb" />
+### Name:BINDHUJAA S
+### Register Number:212224230038
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
